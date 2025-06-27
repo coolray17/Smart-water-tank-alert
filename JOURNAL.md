@@ -15,5 +15,5 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
 - Jumper wires, breadboard
 - USB cable for programming
 ----- Uploaded a basic hand-drawn circuit showing how the ESPs communicate and where buzzer + water sensor connect.
--Time spent : 1hr
+- Time spent : 1hr
 
