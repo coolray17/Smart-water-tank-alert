@@ -1,5 +1,3 @@
-![Circuit Diagram](circuit%20-diagram.jpg)
-
 # 💧 Smart Water Tank Overflow Alert System
 
 This is a simple and useful project that helps stop water from overflowing in a tank placed on the roof. It sends a wireless alert to a buzzer and light inside my home using two ESP8266 boards.
