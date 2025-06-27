@@ -1,4 +1,4 @@
-![Circuit Diagram](circuit-diagram.jpg)
+![Circuit Diagram](circuit%20-diagram.jpg)
 
 # 💧 Smart Water Tank Overflow Alert System
 
