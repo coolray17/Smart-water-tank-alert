@@ -6,16 +6,14 @@ I want to stop my water tank from overflowing. I'll use 2 ESP8266 boards: one on
 ## 🧠 Day 2 – Planning
 Got advice from Hack Club members. Decided not to make a PCB yet — just prototyping on breadboard. Made GitHub repo and started writing out my plan.
 
-## 📦 Day 3 – Bill of Materials
+## 📦 Day 3 – Bill of Materials ,  Circuit Sketch
 - 2 × ESP8266 (NodeMCU)
 - 1 × Water sensor (e.g., float sensor or capacitive)
 - 1 × Buzzer
 - 1 × LED
 - Jumper wires, breadboard
 - USB cable for programming
-
-## ✏ Day 4 – Circuit Sketch
-Uploaded a basic hand-drawn circuit showing how the ESPs communicate and where buzzer + water sensor connect.
+----- Uploaded a basic hand-drawn circuit showing how the ESPs communicate and where buzzer + water sensor connect.
 
 ## 🔜 Next Steps
 - Write Arduino code for ESP-NOW sender and receiver
