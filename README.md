@@ -20,7 +20,7 @@ This is a simple and useful project that helps stop water from overflowing in a 
  Jumper wires                   Many     
  Breadboard                     1        
  USB cables                     2        
- 5V USB charger or power bank   2        
+ power bank   2        
  Plastic box                    1        
 
 # How It Works
