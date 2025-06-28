@@ -48,6 +48,6 @@ This is a simple and useful project that helps stop water from overflowing in a 
 
 - Idea is ready ✅  
 - GitHub journal done ✅  
-- Waiting for review and kit approval ⏳
+- Waiting for review and approval ⏳
 
 ---Thanks for checking out my project!
