@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <espnow.h>
 
-#define BUZZER_PIN 4   // GPIO4 (D2)
-#define LED_PIN    12  // GPIO12 (D6)
+#define BUZZER_PIN 4  // GPIO4 (D2)
+#define LED_PIN    12 // GPIO12 (D6)
 
 void onDataRecv(uint8_t *mac, uint8_t *incomingData, uint8_t len) {
   String msg = "";
@@ -16,7 +16,7 @@ void onDataRecv(uint8_t *mac, uint8_t *incomingData, uint8_t len) {
   if (msg == "WATER_FULL") {
     digitalWrite(BUZZER_PIN, HIGH);
     digitalWrite(LED_PIN, HIGH);
-    delay(3000);
+    delay(3000); // Buzzer & LED ON for 3 seconds
     digitalWrite(BUZZER_PIN, LOW);
     digitalWrite(LED_PIN, LOW);
   }
@@ -25,10 +25,10 @@ void onDataRecv(uint8_t *mac, uint8_t *incomingData, uint8_t len) {
 void setup() {
   Serial.begin(115200);
   WiFi.mode(WIFI_STA);
-  Serial.println("Receiver ready");
+  Serial.println("Receiver Ready");
 
   if (esp_now_init() != 0) {
-    Serial.println("ESP-NOW init failed");
+    Serial.println("ESP-NOW Init Failed");
     return;
   }
 
@@ -37,10 +37,11 @@ void setup() {
 
   pinMode(BUZZER_PIN, OUTPUT);
   pinMode(LED_PIN, OUTPUT);
+
   digitalWrite(BUZZER_PIN, LOW);
   digitalWrite(LED_PIN, LOW);
 }
 
 void loop() {
-  // Receiver waits for messages, nothing needed here
+  // Nothing needed here — everything handled in the callback
 }
