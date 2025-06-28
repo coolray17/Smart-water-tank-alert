@@ -1,0 +1,46 @@
+#include <ESP8266WiFi.h>
+#include <espnow.h>
+
+#define BUZZER_PIN 4   // GPIO4 (D2)
+#define LED_PIN    12  // GPIO12 (D6)
+
+void onDataRecv(uint8_t *mac, uint8_t *incomingData, uint8_t len) {
+  String msg = "";
+  for (int i = 0; i < len; i++) {
+    msg += (char)incomingData[i];
+  }
+
+  Serial.print("Received message: ");
+  Serial.println(msg);
+
+  if (msg == "WATER_FULL") {
+    digitalWrite(BUZZER_PIN, HIGH);
+    digitalWrite(LED_PIN, HIGH);
+    delay(3000);
+    digitalWrite(BUZZER_PIN, LOW);
+    digitalWrite(LED_PIN, LOW);
+  }
+}
+
+void setup() {
+  Serial.begin(115200);
+  WiFi.mode(WIFI_STA);
+  Serial.println("Receiver ready");
+
+  if (esp_now_init() != 0) {
+    Serial.println("ESP-NOW init failed");
+    return;
+  }
+
+  esp_now_set_self_role(ESP_NOW_ROLE_SLAVE);
+  esp_now_register_recv_cb(onDataRecv);
+
+  pinMode(BUZZER_PIN, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(BUZZER_PIN, LOW);
+  digitalWrite(LED_PIN, LOW);
+}
+
+void loop() {
+  // Receiver waits for messages, nothing needed here
+}
