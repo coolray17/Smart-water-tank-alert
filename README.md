@@ -12,7 +12,7 @@ This is a simple and useful project that helps stop water from overflowing in a 
 # What I Will Use (Parts List)
 
  Part                           Quantity
- ESP8266 NodeMCU                2        
+ NodeMCU ESP8266-12F Dev Board              2        
  Water level sensor (YL-69 or wire probes)  1        
  Piezo buzzer                   1        
  LED                            1        
