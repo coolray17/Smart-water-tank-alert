@@ -34,7 +34,4 @@ This is a simple and useful project that helps stop water from overflowing in a 
 - I want to learn about wireless circuits and ESP8266.
 - I already have some experience with soldering and basic electronics.
 
-# Syed Rayhan
-
-*@Rayhan*
 
