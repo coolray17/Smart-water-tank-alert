@@ -18,7 +18,7 @@ This is a simple and useful project that helps stop water from overflowing in a 
  LED                            1        
  Resistors (220Ω)               2        
  Jumper wires                   Many     
- Breadboard                     1        
+ Breadboard                     2       
  USB cables                     2        
  power bank   2        
  Plastic box                    1        
