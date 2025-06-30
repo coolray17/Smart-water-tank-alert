@@ -33,6 +33,10 @@ This is a simple and useful project that helps stop water from overflowing in a 
 - Sometimes my water tank overflows because I can’t see it.
 - I want to learn about wireless circuits and ESP8266.
 - I already have some experience with soldering and basic electronics.
+  
+# 3d view
+![WhatsApp Image 2025-06-30 at 12 34 12_ab707b7e](https://github.com/user-attachments/assets/35c19dc8-8494-4915-be1d-e42b67deddc1)
+![WhatsApp Image 2025-06-30 at 12 34 11_7ab8a335](https://github.com/user-attachments/assets/af87e986-c77a-4e0d-89bf-452fcf10b216)
 
 # Schematics
 ![WhatsApp Image 2025-06-28 at 15 53 45_f6d0716c](https://github.com/user-attachments/assets/d386edf7-f11c-499f-b66a-1716012ada10)
