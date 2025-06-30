@@ -24,4 +24,6 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
 - Done a proper schematic diagram of my project.
 ## Time spent : 2 hr
 ![Schematic_wateralrm](https://github.com/user-attachments/assets/eebf3a0b-ef7a-480d-8f08-b981004aeb6e)
+# Day 4 (29th june) :
+- Done BOM file,
 
