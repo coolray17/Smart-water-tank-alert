@@ -35,11 +35,16 @@ This is a simple and useful project that helps stop water from overflowing in a 
 - I already have some experience with soldering and basic electronics.
   
 # 3d view
-![WhatsApp Image 2025-06-30 at 12 34 12_ab707b7e](https://github.com/user-attachments/assets/35c19dc8-8494-4915-be1d-e42b67deddc1)
-![WhatsApp Image 2025-06-30 at 12 34 11_7ab8a335](https://github.com/user-attachments/assets/af87e986-c77a-4e0d-89bf-452fcf10b216)
+## Sender
+![WhatsApp Image 2025-06-30 at 17 30 53_0f1b8370](https://github.com/user-attachments/assets/59ffe9a7-0513-4fad-ad25-f6f352b7b126)
+## Reciever
+![WhatsApp Image 2025-06-30 at 17 30 53_7d63d393](https://github.com/user-attachments/assets/f144cde8-928c-4004-af45-8b7c8c73dae5)
 
 # Schematics
-![WhatsApp Image 2025-06-28 at 15 53 45_f6d0716c](https://github.com/user-attachments/assets/d386edf7-f11c-499f-b66a-1716012ada10)
+## Reciever 
+![Screenshot (43)](https://github.com/user-attachments/assets/337bdb2a-76bd-4c30-ab18-c09ecec25ab3)
+## Sender
+![Screenshot (41)](https://github.com/user-attachments/assets/88c6001e-82c6-49c0-8e52-3c376ea1ed17)
 
 # BOM
 ## Bill of Materials 
