@@ -41,15 +41,18 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
 
 # Day 6 (1st July):
 - Realised my mistake by the help of slack ( highway pitstop ) and learned the proper schematic then corrected it with it by making a 3d model and a 2d one.[ Replaced just esp8266 by node mcu].
+  
 - Sender:
-- ![Screenshot (41)](https://github.com/user-attachments/assets/17d42bab-2d7d-4d87-aab4-44fcf8f3e359)
-- ![WhatsApp Image 2025-06-30 at 18 38 59_9faf51fb](https://github.com/user-attachments/assets/ab5a491b-a165-4692-b003-ba1635981aea)
-- ![WhatsApp Image 2025-06-30 at 18 38 59_cd4b2ca7](https://github.com/user-attachments/assets/9a20e686-4151-4005-9252-1caed8efe5c6)
-- ![WhatsApp Image 2025-06-30 at 18 39 01_0da2dab0](https://github.com/user-attachments/assets/2429e815-38e5-48dd-ad80-24bb9ae73c89)
+- ![WhatsApp Image 2025-07-01 at 16 29 29_dec22514](https://github.com/user-attachments/assets/41c3cec6-2fbb-4b07-a341-1a4a341c0b3f)- ![WhatsApp Image 2025-07-01 at 17 12 39_c210ef29](https://github.com/user-attachments/assets/88adcebc-6834-47e5-93bc-4902c737a16e)
+- ![WhatsApp Image 2025-07-01 at 17 13 48_a4ab89ec](https://github.com/user-attachments/assets/229c79cc-cc56-40e9-86dc-f7dc0e4e5da5)![WhatsApp Image 2025-07-01 at 17 13 08_943c0394](https://github.com/user-attachments/assets/3790ac22-9cc3-4902-ab63-6e0f6914ef86)
+
 
 - Reciever:
-- ![Screenshot (43)](https://github.com/user-attachments/assets/52cd2aa6-080b-44d5-9f48-cd39f68e9813)
-- ![WhatsApp Image 2025-06-30 at 18 39 00_e7e11566](https://github.com/user-attachments/assets/b02af12a-b15b-4284-b1dc-9a65ab9f8fec)
-- ![WhatsApp Image 2025-06-30 at 18 39 00_653eccd4](https://github.com/user-attachments/assets/d8c68ac3-c1e6-4e35-a787-4fb05f230573)
-- ![WhatsApp Image 2025-06-30 at 18 39 00_feeae67a](https://github.com/user-attachments/assets/bc945845-059a-46e8-98e2-d60ecb26eac4)
+  
+-![WhatsApp Image 2025-07-01 at 16 31 38_2932d35b](https://github.com/user-attachments/assets/cd306739-67cd-445e-9b72-b3bd0bfd26fb)![WhatsApp Image 2025-07-01 at 16 55 29_5db9119d](https://github.com/user-attachments/assets/cfd39241-0cff-4b33-b213-c74d9a9bd4a5)
+- ![WhatsApp Image 2025-07-01 at 17 11 31_e0f3c439](https://github.com/user-attachments/assets/fabd879e-2cf1-458a-8a7c-ac632f2e448e)![WhatsApp Image 2025-07-01 at 17 14 33_34c9aa28](https://github.com/user-attachments/assets/29e2e4f0-709c-4e22-9059-5ddbbda1cbff)
+
+
+
+
 ## Time spent: 3hr
