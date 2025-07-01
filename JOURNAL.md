@@ -20,8 +20,8 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
   ![WhatsApp Image 2025-06-27 at 14 31 01_c70e89bf](https://github.com/user-attachments/assets/50b4b1f6-143b-49b5-a914-9f3008202d1d)
 
   ## Time spent : 1.5 hr
-# Day 3 (28th june)- schematics
-- Done a proper schematic diagram of my project.
+# Day 3 (28th june)- Tried schematics
+- Tried a schematic diagram of my project.
 ![Schematic_wateralrm](https://github.com/user-attachments/assets/eebf3a0b-ef7a-480d-8f08-b981004aeb6e)
 ![WhatsApp Image 2025-06-30 at 12 34 10_cc2475e0](https://github.com/user-attachments/assets/059fc8fb-981d-4c1a-aa63-70ebd412b156)
 ![WhatsApp Image 2025-06-30 at 12 34 09_bfcb211b](https://github.com/user-attachments/assets/398f1a96-b9b9-46d6-aca8-1a2206f5f274)
