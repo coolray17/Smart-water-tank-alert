@@ -1,5 +1,5 @@
 # 📓 Project Journal – Smart Water Tank Overflow Alert
-## Total time spent : 7 hr
+## Total time spent : 10 hr
 # Author - Rayhan 
 # Created on - 27.6.2025
 # Description - A wireless ESP8266-based alert system for water tank overflow detection
@@ -29,10 +29,26 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
 ## Time spent : 2 hr
 # Day 4 (29th june) :
 - Done BOM file.
+  
   ## Time spent : 2.5 hr
 # Day 5 (30th June):
-## 3D modelling through easyEDA and 2D
+## Tried 3D modelling through easyEDA and 2D :
 ![WhatsApp Image 2025-06-30 at 12 34 11_7ab8a335](https://github.com/user-attachments/assets/2bf5cd0a-0144-467d-b1ce-9654c10bd769)
 ![WhatsApp Image 2025-06-30 at 12 34 12_5ad2dfd4](https://github.com/user-attachments/assets/fe2f1f2a-d87e-443c-a7c8-b504fb7fef77)
 ![WhatsApp Image 2025-06-30 at 12 34 11_1a30cfdc](https://github.com/user-attachments/assets/db302921-4702-478f-bcb2-e59fd8d86755)
 ![WhatsApp Image 2025-06-30 at 12 34 11_6c65bde3](https://github.com/user-attachments/assets/82f740bb-a2f4-4c70-aa8a-911fe988659b)
+
+# Day 6 (1st July):
+- Realised my mistake by the help of slack ( highway pitstop ) and learned the proper schematic then corrected it with it by making a 3d model and a 2d one.[ Replaced just esp8266 by node mcu].
+- Sender:
+- ![Screenshot (41)](https://github.com/user-attachments/assets/17d42bab-2d7d-4d87-aab4-44fcf8f3e359)
+- ![WhatsApp Image 2025-06-30 at 18 38 59_9faf51fb](https://github.com/user-attachments/assets/ab5a491b-a165-4692-b003-ba1635981aea)
+- ![WhatsApp Image 2025-06-30 at 18 38 59_cd4b2ca7](https://github.com/user-attachments/assets/9a20e686-4151-4005-9252-1caed8efe5c6)
+- ![WhatsApp Image 2025-06-30 at 18 39 01_0da2dab0](https://github.com/user-attachments/assets/2429e815-38e5-48dd-ad80-24bb9ae73c89)
+
+- Reciever:
+- ![Screenshot (43)](https://github.com/user-attachments/assets/52cd2aa6-080b-44d5-9f48-cd39f68e9813)
+- ![WhatsApp Image 2025-06-30 at 18 39 00_e7e11566](https://github.com/user-attachments/assets/b02af12a-b15b-4284-b1dc-9a65ab9f8fec)
+- ![WhatsApp Image 2025-06-30 at 18 39 00_653eccd4](https://github.com/user-attachments/assets/d8c68ac3-c1e6-4e35-a787-4fb05f230573)
+- ![WhatsApp Image 2025-06-30 at 18 39 00_feeae67a](https://github.com/user-attachments/assets/bc945845-059a-46e8-98e2-d60ecb26eac4)
+## Time spent: 3hr
