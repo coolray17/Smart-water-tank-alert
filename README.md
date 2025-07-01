@@ -5,7 +5,7 @@ This is a simple and useful project that helps stop water from overflowing in a 
 # What This Project Does
 
 - A water sensor inside the rooftop tank checks if the water has reached the top.
-- If it has, the first ESP8266 sends a wireless signal (using ESP-NOW).
+- If it has, the first ESP8266 sends a wireless signal .
 - The second ESP8266 (placed inside the house) receives the signal.
 - It turns on a buzzer and LED to let me know the tank is full.
 
