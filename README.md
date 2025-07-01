@@ -36,15 +36,17 @@ This is a simple and useful project that helps stop water from overflowing in a 
   
 # 3d view
 ## Sender
-![WhatsApp Image 2025-06-30 at 17 30 53_0f1b8370](https://github.com/user-attachments/assets/59ffe9a7-0513-4fad-ad25-f6f352b7b126)
+![WhatsApp Image 2025-07-01 at 17 13 48_00d25a7d](https://github.com/user-attachments/assets/1eb6e3f8-3521-452d-bbaa-bf97a3cea73b)
+
 ## Reciever
-![WhatsApp Image 2025-06-30 at 17 30 53_7d63d393](https://github.com/user-attachments/assets/f144cde8-928c-4004-af45-8b7c8c73dae5)
+![WhatsApp Image 2025-07-01 at 17 11 31_6025288a](https://github.com/user-attachments/assets/c22e22ce-f739-4d70-869a-75e8f42b44cf)
 
 # Schematics
 ## Reciever 
-![Screenshot (43)](https://github.com/user-attachments/assets/337bdb2a-76bd-4c30-ab18-c09ecec25ab3)
+![WhatsApp Image 2025-07-01 at 16 31 38_7f84d088](https://github.com/user-attachments/assets/09b634a7-4b93-48c4-be66-52ef1ea91a4b)
+
 ## Sender
-![Screenshot (41)](https://github.com/user-attachments/assets/88c6001e-82c6-49c0-8e52-3c376ea1ed17)
+![WhatsApp Image 2025-07-01 at 16 29 29_466c56df](https://github.com/user-attachments/assets/2bf8b7e3-ad99-411a-a406-f0936dbe471f)
 
 # BOM
 ## Bill of Materials 
