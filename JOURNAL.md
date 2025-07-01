@@ -1,5 +1,5 @@
 # 📓 Project Journal – Smart Water Tank Overflow Alert
-## Total time spent : 10 hr
+## Total time spent : 11.5 hr
 # Author - Rayhan 
 # Created on - 27.6.2025
 # Description - A wireless ESP8266-based alert system for water tank overflow detection
@@ -37,6 +37,7 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
 ![WhatsApp Image 2025-06-30 at 12 34 12_5ad2dfd4](https://github.com/user-attachments/assets/fe2f1f2a-d87e-443c-a7c8-b504fb7fef77)
 ![WhatsApp Image 2025-06-30 at 12 34 11_1a30cfdc](https://github.com/user-attachments/assets/db302921-4702-478f-bcb2-e59fd8d86755)
 ![WhatsApp Image 2025-06-30 at 12 34 11_6c65bde3](https://github.com/user-attachments/assets/82f740bb-a2f4-4c70-aa8a-911fe988659b)
+## Time spent - 1.5 hr
 
 # Day 6 (1st July):
 - Realised my mistake by the help of slack ( highway pitstop ) and learned the proper schematic then corrected it with it by making a 3d model and a 2d one.[ Replaced just esp8266 by node mcu].
