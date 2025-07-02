@@ -1,5 +1,5 @@
 # 📓 Project Journal – Smart Water Tank Overflow Alert
-## Total time spent : 11.5 hr
+## Total time spent : 13 hr
 # Author - Rayhan 
 # Created on - 27.6.2025
 # Description - A wireless ESP8266-based alert system for water tank overflow detection
@@ -45,14 +45,17 @@ Got advice from Hack Club members. Made GitHub repo and started writing out my p
 - Sender:
 - ![WhatsApp Image 2025-07-01 at 16 29 29_dec22514](https://github.com/user-attachments/assets/41c3cec6-2fbb-4b07-a341-1a4a341c0b3f)- ![WhatsApp Image 2025-07-01 at 17 12 39_c210ef29](https://github.com/user-attachments/assets/88adcebc-6834-47e5-93bc-4902c737a16e)
 - ![WhatsApp Image 2025-07-01 at 17 13 48_a4ab89ec](https://github.com/user-attachments/assets/229c79cc-cc56-40e9-86dc-f7dc0e4e5da5)![WhatsApp Image 2025-07-01 at 17 13 08_943c0394](https://github.com/user-attachments/assets/3790ac22-9cc3-4902-ab63-6e0f6914ef86)
+- ![WhatsApp Image 2025-07-02 at 21 11 00_aed4592c](https://github.com/user-attachments/assets/a302e578-aa64-4a11-b60d-cb723e8dbcc1)WATER SENSOR TERMINAL ![WhatsApp Image 2025-07-02 at 21 09 56_38b8cb47](https://github.com/user-attachments/assets/59f57b0b-4478-466f-bc43-0633fce474a4)
+
 
 
 - Reciever:
   
 -![WhatsApp Image 2025-07-01 at 16 31 38_2932d35b](https://github.com/user-attachments/assets/cd306739-67cd-445e-9b72-b3bd0bfd26fb)![WhatsApp Image 2025-07-01 at 16 55 29_5db9119d](https://github.com/user-attachments/assets/cfd39241-0cff-4b33-b213-c74d9a9bd4a5)
 - ![WhatsApp Image 2025-07-01 at 17 11 31_e0f3c439](https://github.com/user-attachments/assets/fabd879e-2cf1-458a-8a7c-ac632f2e448e)![WhatsApp Image 2025-07-01 at 17 14 33_34c9aa28](https://github.com/user-attachments/assets/29e2e4f0-709c-4e22-9059-5ddbbda1cbff)
+- ![WhatsApp Image 2025-07-02 at 21 10 23_791d5708](https://github.com/user-attachments/assets/6fcd8594-e406-45f4-bf27-f52d050300e5)
 
 
 
 
-## Time spent: 3hr
+## Time spent: 4.5hr
