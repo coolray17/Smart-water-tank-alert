@@ -36,11 +36,12 @@ This is a simple and useful project that helps stop water from overflowing in a 
   
 # 3d view
 ## Sender
-- ![WhatsApp Image 2025-07-01 at 17 13 48_00d25a7d](https://github.com/user-attachments/assets/1eb6e3f8-3521-452d-bbaa-bf97a3cea73b)![WhatsApp Image 2025-07-02 at 21 10 23_e1a4f7bd](https://github.com/user-attachments/assets/56bff11a-6afe-4b46-ad5c-7d42197731ab)
+- ![WhatsApp Image 2025-07-01 at 17 13 48_00d25a7d](https://github.com/user-attachments/assets/1eb6e3f8-3521-452d-bbaa-bf97a3cea73b)!![WhatsApp Image 2025-07-10 at 20 17 50_65536b0d](https://github.com/user-attachments/assets/7b08fc8a-7b47-49d9-9f3d-4a00ee9e3794)
+
 
 
 ## Reciever
-- ![WhatsApp Image 2025-07-01 at 17 11 31_6025288a](https://github.com/user-attachments/assets/c22e22ce-f739-4d70-869a-75e8f42b44cf)![WhatsApp Image 2025-07-02 at 21 11 00_3d4cb2f0](https://github.com/user-attachments/assets/31b55192-6139-4160-a235-6bb74738a56f)
+- ![WhatsApp Image 2025-07-01 at 17 11 31_6025288a](https://github.com/user-attachments/assets/c22e22ce-f739-4d70-869a-75e8f42b44cf)!![WhatsApp Image 2025-07-10 at 20 17 51_98592029](https://github.com/user-attachments/assets/3b9cf675-d171-4436-ab10-796c3822c567)
 
 
 # Schematics
